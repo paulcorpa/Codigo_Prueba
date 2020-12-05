@@ -1,5 +1,7 @@
 Mi biografia
 
-Naci en Arequipa en el mes de diciembre
+Naci en Arequipa en el mes de diciembre.
 
-Me gustan los videojuegos y quiero aprender a programar
+Me gustan los videojuegos y quiero aprender a programar.
+
+Soy tecnico en redes y comunicaciones de datos.
